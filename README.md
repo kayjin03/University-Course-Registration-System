@@ -1,1 +1,1 @@
-# University-Course-Registration-System
+Developed a secure system for course registration, including user authentication, course management, and timetable recording. Implemented enrollment restrictions and data management using text files. 
